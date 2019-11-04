@@ -1,3 +1,3 @@
 print("Hello World123")
 
-print("12345678")
+print("12345")
